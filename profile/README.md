@@ -4,7 +4,7 @@
 **Nabarun** is dedicated to providing seamless support and a collaborative space for our users. This GitHub organization serves as the official platform for discussions, issue tracking, and announcements.  
 
 ## Need Help? Join the Discussion!  
-Our **[GitHub Discussions](https://github.com/orgs/.github/discussions)** is the best place to:  
+Our **[GitHub Discussions](https://github.com/orgs/nabarun-ngo/discussions)** is the best place to:  
 - 💬 Ask questions  
 - 💡 Share ideas and feedback  
 - 🐞 Report issues or request features  
@@ -14,7 +14,7 @@ Our **[GitHub Discussions](https://github.com/orgs/.github/discussions)** is the
 To help you get started, follow these steps:  
 
 ### 1️⃣ Browse Discussions  
-- Visit **[GitHub Discussions](https://github.com/orgs/.github/discussions)** to see existing topics.  
+- Visit **[GitHub Discussions](https://github.com/orgs/nabarun-ngo/discussions)** to see existing topics.  
 - Use the **search bar** to find relevant discussions before creating a new post.  
 
 ### 2️⃣ Ask a Question or Start a Discussion  
@@ -23,12 +23,12 @@ To help you get started, follow these steps:
 - Attach relevant screenshots or links if necessary.  
 
 ### 3️⃣ Report Issues  
-- If you find a bug or need technical assistance, check **[our issue tracker](https://github.com/orgs/.github/issues)** first.  
+- If you find a bug or need technical assistance, check **[our issue tracker](https://github.com/nabarun-ngo/.github/issues)** first.  
 - If no existing issue matches your problem, create a **new issue** with a clear description.  
 
 ### 4️⃣ Stay Updated  
 - Subscribe to relevant discussions to receive notifications.  
-- Follow our **[Announcements](https://github.com/orgs/.github/discussions/categories/announcements)** for important updates.  
+- Follow our **[Announcements](https://github.com/orgs/nabarun-ngo/discussions/categories/announcements)** for important updates.  
 
 ### 5️⃣ Follow Community Guidelines  
 - Be respectful and follow our **[Code of Conduct](https://github.com/.github/code-of-conduct)**.  
